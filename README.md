@@ -2,7 +2,7 @@
 
 欢迎 Star✨
 
-- 📕 个人知识库：[javrin](https://github.com/gelald/javrin)
+- 📕个人知识库：[javrin](https://github.com/gelald/javrin)
 - ⚙RocketMQ 学习项目：[rocketmq-learning](https://github.com/gelald/rocketmq-learning)
 
 欢迎点赞关注👍
