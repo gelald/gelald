@@ -13,6 +13,7 @@
 联系我😉
 
 - 📫我的邮箱：yb.ng@foxmail.com
+- 📞我的微信：Javrin
 
 <!--
 **gelald/gelald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
