@@ -1,9 +1,9 @@
 ## 我是 gelald👋
 
-欢迎 Star✨
+欢迎 Star✨，持续更新中...
 
 - 📕个人知识库：[javrin](https://github.com/gelald/javrin)
-- ⚙RocketMQ 学习项目：[rocketmq-learning](https://github.com/gelald/rocketmq-learning)
+- ⚙学习项目：[rocketmq-learning](https://github.com/gelald/rocketmq-learning)
 
 欢迎点赞关注👍
 
