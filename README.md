@@ -33,7 +33,11 @@ Here are some ideas to get you started:
 
 ## 努力攀登
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=gelald&hide=contribs,prs&show_icons=true&title_color=6bbc8e&icon_color=6bbc8e&locale=en" />
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelald&layout=compact&hide=freemarker&title_color=6bbc8e&icon_color=6bbc8e&locale=en"/>
 </a>
+-->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=gelald&theme=gruvbox)
